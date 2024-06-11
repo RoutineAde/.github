@@ -4,7 +4,7 @@
 [프로젝트 계획서](루틴에이드%20프로젝트%20계획서.pdf)
 <br><br>
 
-![프로젝트 소개.png](%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C.png)
+![프로젝트 소개](https://github.com/RoutineAde/.github/assets/109871579/891ace6b-0df7-48c2-ba94-48b2320df002)
 
 ## 1-1. 주요 기능 소개
 
