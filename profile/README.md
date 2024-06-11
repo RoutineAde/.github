@@ -1,7 +1,7 @@
 # 루틴에이드, 개인 및 그룹 루틴 관리 서비스
 
 # 1. 프로젝트 소개
-[프로젝트 계획서](루틴에이드%20프로젝트%20계획서.pdf)
+[루틴에이드 프로젝트 계획서.pdf](https://github.com/user-attachments/files/15786675/default.pdf)
 <br><br>
 
 ![프로젝트 소개](https://github.com/RoutineAde/.github/assets/109871579/891ace6b-0df7-48c2-ba94-48b2320df002)
@@ -11,7 +11,7 @@
 [기능 정의서](https://docs.google.com/spreadsheets/d/1TlSROv1-MPHrnolNuq4_emAHv3lbYUyuy2SjSVsMH-U/edit?gid=0#gid=0)
 <br><br>
 
-![주요 기능 소개.png](%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EB%8A%A5%20%EC%86%8C%EA%B0%9C.png)
+![주요 기능 소개](https://github.com/RoutineAde/.github/assets/109871579/f6897c2f-0c49-4f31-981c-70175e669615)
 
 <br>
 
@@ -25,32 +25,31 @@
 
 
 ## 1-3. 프로젝트 개요 및 목적
-![개발 동기 및 필요성.png](%EA%B0%9C%EB%B0%9C%20%EB%8F%99%EA%B8%B0%20%EB%B0%8F%20%ED%95%84%EC%9A%94%EC%84%B1.png)
+![개발 동기 및 필요성](https://github.com/RoutineAde/.github/assets/109871579/f96c202c-00a1-49b4-83ab-2030302bf6a7)
 
 <br>
 
 
 ## 1-4. 프로젝트 일정
-![프로젝트 일정.png](%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EC%A0%95.png)
+![프로젝트 일정](https://github.com/RoutineAde/.github/assets/109871579/4cc591cc-b70d-4117-a0fe-bdff71f5c32d)
 
 <br>
 
 
 # 2. 프로젝트 구성
 ## 2-1. 시스템 아키텍처
-![시스템 아키텍처 구조도.png](%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B5%AC%EC%A1%B0%EB%8F%84.png)
+![시스템 아키텍처 구조도](https://github.com/RoutineAde/.github/assets/109871579/5babfa1b-9f59-4c4d-a9f2-92c7fd45cf0e)
 
 <br>
 
 ## 2-2. ERD
-![데이터베이스 구조도.png](%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%EC%A1%B0%EB%8F%84.png)
+![데이터베이스 구조도](https://github.com/RoutineAde/.github/assets/109871579/db35b62c-46c7-4c1e-b0e1-00a7b4330abc)
 
 <br>
 
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 ppt
-[발표 PPT](/project.pptx)
 
 <br>
 
