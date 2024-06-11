@@ -6,6 +6,8 @@
 
 ![프로젝트 소개](https://github.com/RoutineAde/.github/assets/109871579/891ace6b-0df7-48c2-ba94-48b2320df002)
 
+<br>
+
 ## 1-1. 주요 기능 소개
 
 [기능 정의서](https://docs.google.com/spreadsheets/d/1TlSROv1-MPHrnolNuq4_emAHv3lbYUyuy2SjSVsMH-U/edit?gid=0#gid=0)
