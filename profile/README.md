@@ -1,7 +1,7 @@
 # 루틴에이드, 개인 및 그룹 루틴 관리 서비스
 
 # 1. 프로젝트 소개
-[루틴에이드 프로젝트 계획서.pdf](https://github.com/user-attachments/files/15786675/default.pdf)
+[루틴에이드 프로젝트 계획서.pdf](https://github.com/RoutineAde/.github/blob/main/profile/%EB%A3%A8%ED%8B%B4%EC%97%90%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
 <br><br>
 
 ![프로젝트 소개](https://github.com/RoutineAde/.github/assets/109871579/891ace6b-0df7-48c2-ba94-48b2320df002)
