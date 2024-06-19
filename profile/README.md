@@ -52,10 +52,12 @@
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 ppt
+[루틴에이드 1학기 최종 발표.pptx](https://github.com/user-attachments/files/15896071/1.pptx)
 
 <br>
 
 ## 3-2. 시연 영상
+[루틴에이드 시연 영상](https://youtu.be/Qg36wVa-rO0)
 
 <br>
 
