@@ -45,14 +45,14 @@
 <br>
 
 ## 2-2. ERD
-![데이터베이스 구조도](https://github.com/RoutineAde/.github/assets/109871579/db35b62c-46c7-4c1e-b0e1-00a7b4330abc)
+![데이터베이스 구조도 ERD](https://github.com/RoutineAde/.github/assets/109871579/c104f64f-fbc0-4c76-b4ad-23ad178cd6a5)
 
 <br>
 
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 ppt
-[루틴에이드 1학기 최종 발표.pptx](https://github.com/user-attachments/files/15896071/1.pptx)
+[루틴에이드 1학기 최종 발표.pptx](https://github.com/user-attachments/files/15935400/1.pptx)
 
 <br>
 
