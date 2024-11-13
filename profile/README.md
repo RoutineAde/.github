@@ -1,10 +1,13 @@
 # 루틴에이드, 개인 및 그룹 루틴 관리 서비스
-
-# 1. 프로젝트 소개
-[루틴에이드 프로젝트 계획서.pdf](https://github.com/RoutineAde/.github/blob/main/profile/%EB%A3%A8%ED%8B%B4%EC%97%90%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
+![3](https://github.com/user-attachments/assets/9189ae11-fd2a-4f09-acb6-291c2834bbe8)
 <br><br>
 
-![프로젝트 소개](https://github.com/RoutineAde/.github/assets/109871579/891ace6b-0df7-48c2-ba94-48b2320df002)
+<br>
+
+# 1. 프로젝트 소개
+![6](https://github.com/user-attachments/assets/36d4b010-8721-4882-9f41-427544fea365)
+<br><br>
+
 
 <br>
 
@@ -13,7 +16,11 @@
 [기능 정의서](https://docs.google.com/spreadsheets/d/1TlSROv1-MPHrnolNuq4_emAHv3lbYUyuy2SjSVsMH-U/edit?gid=0#gid=0)
 <br><br>
 
-![주요 기능 소개](https://github.com/RoutineAde/.github/assets/109871579/f6897c2f-0c49-4f31-981c-70175e669615)
+![루틴에이드 1학기 최종 발표](https://github.com/user-attachments/assets/07f62718-cee4-40d3-9fe9-c8630c147f12)
+
+![14](https://github.com/user-attachments/assets/d5f9c816-86a8-47da-a99a-5d5cadf33775) <br><br>
+![15](https://github.com/user-attachments/assets/6e500e6e-e91d-4dbd-99bb-df678a6c2a43) <br><br>
+![16](https://github.com/user-attachments/assets/06d8c90c-5478-484a-9ca5-d126f6f469da) <br><br>
 
 <br>
 
@@ -27,12 +34,17 @@
 
 
 ## 1-3. 프로젝트 개요 및 목적
-![개발 동기 및 필요성](https://github.com/RoutineAde/.github/assets/109871579/f96c202c-00a1-49b4-83ab-2030302bf6a7)
+![4](https://github.com/user-attachments/assets/693c0b8b-ba7e-4944-ac4c-4768aff8c00b)
 
 <br>
 
 
-## 1-4. 프로젝트 일정
+## 1-4. 주제 선정 배경과 목표 설정
+![5](https://github.com/user-attachments/assets/49883435-d67f-47db-a6e1-c3de95244885)
+
+<br>
+
+## 1-5. 프로젝트 일정
 ![프로젝트 일정](https://github.com/RoutineAde/.github/assets/109871579/4cc591cc-b70d-4117-a0fe-bdff71f5c32d)
 
 <br>
@@ -40,24 +52,29 @@
 
 # 2. 프로젝트 구성
 ## 2-1. 시스템 아키텍처
-![시스템 아키텍처 구조도](https://github.com/RoutineAde/.github/assets/109871579/5babfa1b-9f59-4c4d-a9f2-92c7fd45cf0e)
+![7](https://github.com/user-attachments/assets/7d1ddbd9-9201-4cfc-91a5-a01cee350979)
 
 <br>
 
-## 2-2. ERD
-![데이터베이스 구조도 ERD](https://github.com/RoutineAde/.github/assets/109871579/c104f64f-fbc0-4c76-b4ad-23ad178cd6a5)
+## 2-2.  시스템 구성도
+![최종 시스템 구성도 (2)](https://github.com/user-attachments/assets/24fd223c-4051-40fd-bb5d-660ba9390290)
 
 <br>
 
+## 2-3. ERD
+![9](https://github.com/user-attachments/assets/9293c886-a5b8-4707-b8fb-98b92e317b24)
+
+<br>
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 ppt
-[루틴에이드 1학기 최종 발표.pptx](https://github.com/user-attachments/files/15935400/1.pptx)
+[루틴에이드 1학기 발표.pptx](https://github.com/user-attachments/files/15935400/1.pptx) <br>
+[팀 ACE_리허설 발표 자료.pptx](https://github.com/user-attachments/files/17737300/ACE_.pptx)
 
 <br>
 
 ## 3-2. 시연 영상
-[루틴에이드 시연 영상](https://youtu.be/Qg36wVa-rO0)
+[루틴에이드 시연 영상](https://www.youtube.com/watch?v=O76uwMt1_LQ&t=1s)
 
 <br>
 
