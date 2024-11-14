@@ -78,6 +78,9 @@
 
 <br>
 
+https://github.com/user-attachments/assets/5c8b0029-06d8-4474-955c-6b8221e19fdb
+
+
 # 4. 자기 소개
 
 | <img width="250px" alt="서현" src="https://avatars.githubusercontent.com/u/118911251?v=4"> | <img width="250px" alt="채은" src="https://avatars.githubusercontent.com/u/109871579?v=4"> | <img width="250px" alt="가은" src="https://avatars.githubusercontent.com/u/127672696?v=4">  | <img width="250px" alt="윤정" src="https://avatars.githubusercontent.com/u/129257050?v=4"> |
