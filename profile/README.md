@@ -45,7 +45,7 @@
 <br>
 
 ## 1-5. 프로젝트 일정
-![프로젝트 일정](https://github.com/RoutineAde/.github/assets/109871579/4cc591cc-b70d-4117-a0fe-bdff71f5c32d)
+2024.03 ~ 2024.10 
 
 <br>
 
