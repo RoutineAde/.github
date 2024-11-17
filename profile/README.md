@@ -88,6 +88,6 @@ https://github.com/user-attachments/assets/5c8b0029-06d8-4474-955c-6b8221e19fdb
 | <img width="250px" alt="서현" src="https://avatars.githubusercontent.com/u/118911251?v=4"> | <img width="250px" alt="채은" src="https://avatars.githubusercontent.com/u/109871579?v=4"> | <img width="250px" alt="가은" src="https://avatars.githubusercontent.com/u/127672696?v=4">  | <img width="250px" alt="윤정" src="https://avatars.githubusercontent.com/u/129257050?v=4"> |
 |:----------------------------------------------------------------------------------------:|:-----------:|:------------------------------------:|:----------------------------------------------------------------------------------------:|
 |                           [김서현](https://github.com/khoikangim)                           |     [이채은](https://github.com/ChaeAg)     | [박가은](https://github.com/gaeunpark7) |                           [이윤정](https://github.com/yjlee0321)                            |
-|                                        기획 & UI 설계                                        |     백엔드     |                프론트엔드                 |                                          프론트엔드                                           |
+|                                        팀장(PM), UI 설계                                        |     백엔드     |                프론트엔드                 |                                          프론트엔드                                           |
 
 
