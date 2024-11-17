@@ -13,7 +13,7 @@
 
 ## 1-1. 주요 기능 소개
 
-[기능 정의서](https://docs.google.com/spreadsheets/d/1TlSROv1-MPHrnolNuq4_emAHv3lbYUyuy2SjSVsMH-U/edit?gid=0#gid=0)
+[루틴에이드 서비스 기능 정의서 (구글시트) ](https://docs.google.com/spreadsheets/d/1TlSROv1-MPHrnolNuq4_emAHv3lbYUyuy2SjSVsMH-U/edit?gid=0#gid=0)
 <br><br>
 
 ![루틴에이드 1학기 최종 발표](https://github.com/user-attachments/assets/07f62718-cee4-40d3-9fe9-c8630c147f12)
