@@ -45,7 +45,7 @@
 <br>
 
 ## 1-5. 프로젝트 일정
-2024.03 ~ 2024.10 
+### 2024.03 ~ 2024.10 
 
 <br>
 
@@ -68,8 +68,9 @@
 # 3. 프로젝트 결과
 
 ## 3-1. 발표 ppt
-[루틴에이드 1학기 발표.pptx](https://github.com/user-attachments/files/15935400/1.pptx) <br>
-[팀 ACE_리허설 발표 자료.pptx](https://github.com/user-attachments/files/17737300/ACE_.pptx)
+[루틴에이드 프로젝트 계획서.pptx](https://github.com/user-attachments/files/17792055/default.pptx) <br>
+[루틴에이드 1학기 발표 자료.pptx](https://github.com/user-attachments/files/15935400/1.pptx) <br>
+[루틴에이드 최종 발표 자료.pptx](https://github.com/user-attachments/files/17737300/ACE_.pptx)
 
 <br>
 
