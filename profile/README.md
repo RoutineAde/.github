@@ -56,12 +56,18 @@
 
 <br>
 
-## 2-2.  시스템 구성도
+## 2-2.  와이어프레임
+<img width="1000" alt="루틴에이드 와이어프레임" src="https://github.com/user-attachments/assets/7bed2901-a8d7-4ae9-8c99-e72122d7f7f3">
+
+
+<br> <br>
+
+## 2-3.  시스템 구성도
 ![최종 시스템 구성도 (2)](https://github.com/user-attachments/assets/24fd223c-4051-40fd-bb5d-660ba9390290)
 
 <br>
 
-## 2-3. ERD
+## 2-4. ERD
 ![9](https://github.com/user-attachments/assets/9293c886-a5b8-4707-b8fb-98b92e317b24)
 
 <br>
